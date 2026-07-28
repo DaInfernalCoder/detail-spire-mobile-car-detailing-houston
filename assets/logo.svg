@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Detail Spire logo</title>
+  <desc id="desc">A rising detail spire inside two inspection rings</desc>
+  <rect width="120" height="120" rx="28" fill="#25223A"/>
+  <circle cx="60" cy="62" r="38" fill="none" stroke="#E6E4EE" stroke-width="7"/>
+  <circle cx="60" cy="62" r="25" fill="none" stroke="#6F7DDF" stroke-width="4" stroke-dasharray="10 7"/>
+  <path d="M39 85 60 25l21 60-21-13z" fill="#E0A43A" stroke="#FBFAFD" stroke-width="5" stroke-linejoin="round"/>
+</svg>
