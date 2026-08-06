@@ -37,10 +37,14 @@ The public phone and street address are confirmed as supplied by the owner. Lice
 
 Detail Spire Mobile Car Detailing Houston brings convenient mobile auto care and direct service to drivers across Houston, Texas. Our Car Detailing Houston service combines a careful hand wash, exterior detailing, and thorough interior cleaning based on each vehicle's condition. Drivers seeking the best Car Detailing Houston option get practical care for downtown commutes, family errands, and everyday Texas travel. From routine wash visits to deeper interior and exterior care, Detail Spire Mobile Car Detailing Houston serves Houston, TX, with flexible scheduling across Texas.
 
+## Current state
+
+The confirmed phone and address are live at `https://detailspire.shop`, the call links and LocalBusiness schema are updated, and the local `GMB-INFO.txt` and image pack are complete.
+
 ## Blocker
 
-The local GMB information pack is complete. GitHub publishing requires refreshed authentication, and GeoStamp is pending explicit approval to send the confirmed address to the U.S. Census geocoder.
+GeoStamp is pending explicit approval to send the confirmed address to the U.S. Census geocoder.
 
 ## Exact next action
 
-Refresh GitHub authentication, publish the confirmed phone/address website update, then sync GeoStamp after explicit geocoder approval and verify the production site.
+After explicit geocoder approval, sync the confirmed address to GeoStamp and verify the new selector entry.
