@@ -9,6 +9,8 @@ Create and launch Detail Spire Mobile Car Detailing Houston as site 37 of the 10
 - Service: Mobile Car Detailing
 - Market: Houston, Texas
 - Registered domain: `detailspire.shop`
+- Public phone: `+1 832-786-5421`
+- Street address: `2822 Sienna Pkwy, Missouri City, TX 77459`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
 - Booking: https://cal.com/sumitdatta/auto-detail-service
 - Build method: cloned from a validated site family through `scripts/scaffold_sites_from_csv.py`
@@ -16,7 +18,7 @@ Create and launch Detail Spire Mobile Car Detailing Houston as site 37 of the 10
 
 ## Truth constraints
 
-Phone and street address have not been supplied. Do not invent them. Licensed stock imagery is illustrative and must not be presented as completed Detail Spire work.
+The public phone and street address are confirmed as supplied by the owner. Licensed stock imagery is illustrative and must not be presented as completed Detail Spire work.
 
 ## Acceptance checklist
 
@@ -24,21 +26,21 @@ Phone and street address have not been supplied. Do not invent them. Licensed st
 - [x] Exact domain and price approved
 - [x] Domain registered
 - [x] Local preflight and browser QA passed
-- [ ] Public GitHub repository and Vercel production project created
+- [x] Public GitHub repository and Vercel production project created
 - [ ] Apex and `www` attached; registrar DNS saved
-- [ ] Phone supplied and call links completed
-- [ ] Address supplied and final `GMB-INFO.txt` completed
+- [x] Phone supplied and call links completed
+- [x] Address supplied and final `GMB-INFO.txt` completed
 - [x] Phone/address-independent logo and photo pack completed
 - [ ] GeoStamp synced
 
-## Draft GBP description
+## Final GBP description
 
-Detail Spire Mobile Car Detailing Houston helps Houston drivers arrange careful interior and exterior vehicle care across Houston, Texas. This Car Detailing Houston service focuses on cabin surfaces, exterior panels, wheels, glass, and visible finish details for drivers in Houston, Texas. Detail Spire Mobile Car Detailing Houston keeps the service scope tied to the vehicle's current condition and the areas the driver wants addressed. Drivers can use this Car Detailing Houston service for interior, exterior, or complete detailing arranged throughout Houston, Texas. Detail Spire Mobile Car Detailing Houston offers online scheduling now, with its confirmed public phone added at final handoff.
+Detail Spire Mobile Car Detailing Houston brings convenient mobile auto care and direct service to drivers across Houston, Texas. Our Car Detailing Houston service combines a careful hand wash, exterior detailing, and thorough interior cleaning based on each vehicle's condition. Drivers seeking the best Car Detailing Houston option get practical care for downtown commutes, family errands, and everyday Texas travel. From routine wash visits to deeper interior and exterior care, Detail Spire Mobile Car Detailing Houston serves Houston, TX, with flexible scheduling across Texas.
 
 ## Blocker
 
-Phone and address are required for final call links and GMB completion.
+The local GMB information pack is complete. GitHub publishing requires refreshed authentication, and GeoStamp is pending explicit approval to send the confirmed address to the U.S. Census geocoder.
 
 ## Exact next action
 
-Publish to GitHub, deploy to Vercel, and connect registrar DNS automatically.
+Refresh GitHub authentication, publish the confirmed phone/address website update, then sync GeoStamp after explicit geocoder approval and verify the production site.
