@@ -14,3 +14,14 @@
 - Service: Appointment-based mobile car detailing
 - Booking: https://cal.com/sumitdatta/auto-detail-service
 - Google review profile: https://g.page/r/CWWl6rSbCFHXEBM/review
+
+<!-- SEO-NEXT:START -->
+## Expanded pages
+- [Services](https://detailspire.shop/services/)
+- [Interior Car Detailing](https://detailspire.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://detailspire.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://detailspire.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://detailspire.shop/services/headlight-restoration/)
+- [About](https://detailspire.shop/about/)
+- [Contact](https://detailspire.shop/contact/)
+<!-- SEO-NEXT:END -->
