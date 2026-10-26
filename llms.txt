@@ -3,9 +3,9 @@
 > Appointment-based mobile car detailing in Missouri City, Texas.
 
 ## Primary pages
-- [Homepage](https://detailspire.shop/): Business, service, pricing, process, and contact information.
-- [Services](https://detailspire.shop/#services): Interior, exterior, and complete vehicle detailing options.
-- [Local service information](https://detailspire.shop/#local-detailing): How mobile detailing works in Missouri City.
+- [Homepage](https://missouricitycardetailing.shop/): Business, service, pricing, process, and contact information.
+- [Services](https://missouricitycardetailing.shop/#services): Interior, exterior, and complete vehicle detailing options.
+- [Local service information](https://missouricitycardetailing.shop/#local-detailing): How mobile detailing works in Missouri City.
 
 ## Verified business facts
 - Business name: Detail Spire Mobile Car Detailing Houston
@@ -17,11 +17,11 @@
 
 <!-- SEO-NEXT:START -->
 ## Expanded pages
-- [Services](https://detailspire.shop/services/)
-- [Interior Car Detailing](https://detailspire.shop/services/interior-car-detailing/)
-- [Exterior Car Detailing](https://detailspire.shop/services/exterior-car-detailing/)
-- [Mobile Car Wash](https://detailspire.shop/services/mobile-car-wash/)
-- [Headlight Restoration & Polishing](https://detailspire.shop/services/headlight-restoration/)
-- [About](https://detailspire.shop/about/)
-- [Contact](https://detailspire.shop/contact/)
+- [Services](https://missouricitycardetailing.shop/services/)
+- [Interior Car Detailing](https://missouricitycardetailing.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://missouricitycardetailing.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://missouricitycardetailing.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://missouricitycardetailing.shop/services/headlight-restoration/)
+- [About](https://missouricitycardetailing.shop/about/)
+- [Contact](https://missouricitycardetailing.shop/contact/)
 <!-- SEO-NEXT:END -->

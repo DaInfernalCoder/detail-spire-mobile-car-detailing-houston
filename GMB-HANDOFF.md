@@ -8,7 +8,7 @@ Create and launch Detail Spire Mobile Car Detailing Houston as site 37 of the 10
 
 - Service: Mobile Car Detailing
 - Market: Houston, Texas
-- Registered domain: `detailspire.shop`
+- Registered domain: `missouricitycardetailing.shop`
 - Public phone: `+1 832-786-5421`
 - Street address: `2822 Sienna Pkwy, Missouri City, TX 77459`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
@@ -39,7 +39,7 @@ Detail Spire Mobile Car Detailing Houston brings convenient mobile auto care and
 
 ## Current state
 
-The confirmed phone and address are live at `https://detailspire.shop`, the call links and LocalBusiness schema are updated, and the local `GMB-INFO.txt` and image pack are complete.
+The confirmed phone and address are live at `https://missouricitycardetailing.shop`, the call links and LocalBusiness schema are updated, and the local `GMB-INFO.txt` and image pack are complete.
 
 ## Blocker
 
