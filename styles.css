@@ -6,7 +6,7 @@
   font-display: swap;
 }
 
-/* Detail Spire identity layer */
+/* Missouri City Car Detailing identity layer */
 :root {
   --bayou: #25223a;
   --bayou-bright: #413b64;
@@ -1359,6 +1359,10 @@ h3 {
 
   .footer-grid > p {
     display: none;
+  }
+
+  .footer-grid > p.footer-address {
+    display: block;
   }
 }
 
