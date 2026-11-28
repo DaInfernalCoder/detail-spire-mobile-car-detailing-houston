@@ -12,7 +12,7 @@ Create and launch Detail Spire Mobile Car Detailing Houston as site 37 of the 10
 - Public phone: `+1 832-786-5421`
 - Street address: `2822 Sienna Pkwy, Missouri City, TX 77459`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
-- Booking: https://cal.com/sumitdatta/auto-detail-service
+- Booking: https://missouricitycardetailing.shop/scheduling
 - Build method: cloned from a validated site family through `scripts/scaffold_sites_from_csv.py`
 - Approval boundary: exact-domain approval is the only launch gate and authorizes the standard automated GitHub, Vercel, custom-host, and DNS workflow
 
